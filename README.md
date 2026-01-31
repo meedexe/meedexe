@@ -169,7 +169,7 @@ I'm available for:
 <div align="center">
 
 **GitHub:** [github.com/MEEDEXE](https://github.com/MEEDEXE)  
-**Portfolio:** *Coming Soon*  
+ 
 **Email:** *mkbarrri@gmail.com*  
 **Location:** 🇲🇦 Chefchaouen, Morocco
 
