@@ -170,7 +170,7 @@ I'm available for:
 
 **GitHub:** [github.com/MEEDEXE](https://github.com/MEEDEXE)  
 **Portfolio:** *Coming Soon*  
-**Email:** *(Available on request)*  
+**Email:** *mkbarrri@gmail.com*  
 **Location:** 🇲🇦 Chefchaouen, Morocco
 
 *Open to remote opportunities and international collaboration*
