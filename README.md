@@ -2,14 +2,13 @@
 
 <div align="center">
 
-[![Profile Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=800&height=50&lines=Creative+Developer+%7C+Digital+Architect+%7C+Code+with+Purpose)](https://github.com/MEEDEXE)
+**Creative Developer | Digital Architect | Code with Purpose**
 
 *Crafting exceptional digital experiences at the intersection of design, engineering, and strategy*
 
-[![GitHub](https://img.shields.io/badge/GitHub-MEEDEXE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MEEDEXE)
-[![Location](https://img.shields.io/badge/Based_in-Chefchaouen_Morocco_🇲🇦-00D084?style=for-the-badge&logo=map-pin)](https://www.google.com/maps/place/Chefchaouen)
-[![Status](https://img.shields.io/badge/Status-Available_for_Projects-00C853?style=for-the-badge&logo=check-circle)](https://github.com/MEEDEXE)
-[![Website](https://img.shields.io/badge/Portfolio-COMING_SOON-6C63FF?style=for-the-badge&logo=globe)](https://github.com/MEEDEXE)
+[![GitHub](https://img.shields.io/badge/GitHub-MEEDEXE-181717?style=for-the-badge&logo=github)](https://github.com/MEEDEXE)
+[![Location](https://img.shields.io/badge/Based_in-Morocco_🇲🇦-00D084?style=for-the-badge)](https://github.com/MEEDEXE)
+[![Status](https://img.shields.io/badge/Status-Available_for_Projects-00C853?style=for-the-badge)](https://github.com/MEEDEXE)
 
 </div>
 
@@ -17,119 +16,183 @@
 
 ## 🎯 About Me
 
-I'm **MEEDEXE**, a passionate developer who believes that exceptional software is more than just functional code—it's an immersive experience, a digital identity, and a powerful statement. I specialize in building **high-performance, elegant, and impactful digital products** that solve real-world problems while elevating brands to new heights.
+I'm **MEEDEXE**, a developer who believes that great software is more than functional code—it's an experience, an identity, a statement. I specialize in building **fast, elegant, and impactful digital products** that solve real problems and elevate brands.
 
-From **scalable full-stack applications** to **advanced security research** and **cutting-edge creative installations**, every project receives my full commitment to precision, innovation, and quality craftsmanship.
+From **full-stack web applications** to **security research** and **creative tech installations**, I approach every project with precision, creativity, and a commitment to quality.
 
-> *"Code isn't just logic—it's the digital DNA of transformative ideas."*
+> *"Code isn't just logic—it's the digital DNA of ideas."*
 
 ---
 
 ## 🚀 What I Build
 
 ### 🌐 **Web & Mobile Applications**
-Full-stack development with modern frameworks and bleeding-edge performance optimization
-- **React** • **Next.js** • **Tailwind CSS** • **TypeScript** • **Framer Motion**
-- Progressive Web Apps (PWAs) with offline-first capabilities
-- Server-side rendering & static site generation for optimal SEO
-- Accessible, responsive, and visually stunning interfaces
+Full-stack development with modern frameworks and cutting-edge performance optimization
+- **React** • **Next.js** • **Tailwind CSS** • **TypeScript**
+- Progressive Web Apps (PWAs)
+- Server-side rendering & static site generation
+- Responsive, accessible, SEO-optimized interfaces
 
 ### ⚙️ **Backend & API Architecture**
-Enterprise-grade server solutions engineered for scalability and security
-- **Node.js** • **Express** • **Go** • **Python/Flask** • **Rust**
-- RESTful & GraphQL APIs with comprehensive documentation
-- Advanced database architecture (PostgreSQL, MongoDB, Redis)
-- Microservices and event-driven architectures
-- Real-time systems with WebSockets & Server-Sent Events
+Scalable, secure server solutions built for reliability and speed
+- **Node.js** • **Express** • **Go** • **Python/Flask**
+- RESTful & GraphQL APIs
+- Database design (PostgreSQL, MongoDB, Redis)
+- Microservices architecture
+- Real-time systems with WebSockets
 
 ### 🔐 **Cybersecurity & OSINT**
 Ethical hacking, penetration testing, and intelligence gathering
-- Web application security audits and vulnerability assessments
-- Network reconnaissance and threat modeling
-- Privacy-first development practices
-- Security compliance and best practices implementation
+- Web application security audits
+- Network reconnaissance
+- Vulnerability assessment
+- Privacy-focused development practices
 
-### 🎨 **Creative Technology & Digital Art**
-Where artistic vision meets engineering excellence
-- Interactive web experiences and immersive storytelling
+### 🎨 **Creative Technology**
+Where art meets engineering
+- Interactive web experiences
 - Music visualization & audio-reactive interfaces
-- Digital identity systems and personal branding platforms
-- Generative art and algorithmic creativity
+- Digital identity & personal branding
+- Generative art & creative coding
 
-### 🏨 **Hospitality Tech Solutions (Morocco Focus)**
-Modernizing local businesses with culturally-aware technology
-- Hotel booking & reservation management systems
-- Digital menu platforms with multi-language support
-- Customer relationship management (CRM) solutions
-- Payment integration (Stripe, CMI, local gateways)
-- Multi-platform apps with Arabic, French, and English interfaces
+### 🏨 **Hospitality Tech Solutions**
+Modernizing local businesses in Morocco
+- Hotel booking & reservation systems
+- Digital menu platforms for restaurants
+- Customer management systems
+- Payment integration (Stripe, local gateways)
+- Multilingual support (Arabic, French, English)
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠 Tech Arsenal
 
 <div align="center">
 
-### **Frontend Mastery**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### **Backend Expertise**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **DevOps & Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+### **DevOps & Tools**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🌍 Featured Projects
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **🏨 Chefchaouen Digital Hub** | Digital transformation platform for local businesses | Next.js, PostgreSQL, Stripe, Multi-language | 🚧 In Progress |
-| **🔒 Security Audit Toolkit** | Comprehensive web security assessment platform | Node.js, Python, Nmap, OWASP tools | 🔄 Active Development |
-| **📚 Learning Management System** | Interactive educational platform with AI features | React, Node.js, MongoDB, OpenAI API | ✅ Completed |
-| **🎨 Creative Coding Gallery** | Collection of generative art and interactive experiences | Three.js, Canvas API, WebGL | ✨ Showcase |
+### 🎧 **Artist Digital Ecosystems**
+Custom websites and platforms for musicians and creative professionals
+- Portfolio showcases with audio/video integration
+- Fan engagement tools
+- Streaming platform integration
+- E-commerce for merchandise
+
+### 🏙 **Chefchaouen Digital Initiative**
+Bringing local Moroccan businesses into the digital economy
+- Multilingual hospitality websites
+- Online reservation systems
+- Digital marketing solutions
+- SEO optimization for tourism
+
+### 🧭 **Educational Platforms**
+Tools that guide, inform, and empower
+- Interactive learning experiences
+- Career orientation systems
+- Resource management platforms
+
+### 🤖 **AI-Powered Tools**
+Intelligent automation for modern workflows
+- Content generation assistants
+- Data analysis dashboards
+- Productivity enhancers
 
 ---
 
 ## 📊 Development Philosophy
 
-```typescript
-interface DeveloperManifesto {
-  corePrinciples: [
-    "Clean code is readable, maintainable, and scalable",
-    "Performance optimization is a continuous commitment",
-    "Design and function must coexist harmoniously",
-    "Security is foundational, not supplementary",
-    "User experience drives every technical decision"
-  ];
-  methodology: "Strategic | Methodical | Innovative | Pragmatic";
-  qualityStandards: {
-    testing: "Comprehensive test coverage",
-    documentation: "Clear and thorough",
-    collaboration: "Transparent and communicative",
-    deployment: "Reliable and automated"
-  };
-  ultimateGoal: "To engineer solutions that create meaningful impact";
-}
-
-const meedexe: DeveloperManifesto = {
-  // Implementation details...
+```javascript
+const meedexe = {
+  principles: [
+    "Clean code is readable code",
+    "Performance is a feature",
+    "Design and function are inseparable",
+    "Security is not optional",
+    "User experience drives everything"
+  ],
+  approach: "Strategic • Methodical • Creative",
+  goal: "Build products that matter"
 };
+```
+
+---
+
+## 📈 Current Focus
+
+🎯 **Building** scalable SaaS applications  
+🛡️ **Deepening** cybersecurity and ethical hacking skills  
+🌐 **Empowering** Moroccan businesses through digital transformation  
+🚀 **Exploring** Web3, blockchain, and decentralized systems  
+📚 **Learning** system design and cloud architecture (AWS, GCP)
+
+---
+
+## 💼 Services & Collaboration
+
+I'm available for:
+- **Full-stack web development**
+- **Technical consulting**
+- **Code audits & optimization**
+- **Security assessments**
+- **Digital transformation projects**
+- **Open-source collaboration**
+
+---
+
+## 📫 Get in Touch
+
+<div align="center">
+
+**GitHub:** [github.com/MEEDEXE](https://github.com/MEEDEXE)  
+**Portfolio:** *Coming Soon*  
+**Email:** *(Available on request)*  
+**Location:** 🇲🇦 Chefchaouen, Morocco
+
+*Open to remote opportunities and international collaboration*
+
+</div>
+
+---
+
+## 📜 License & Usage
+
+All projects are licensed individually—check each repository for details.  
+
+**Explore freely. Learn continuously. Build responsibly. Credit always.**
+
+---
+
+<div align="center">
+
+### ⚡️ *"First, solve the problem. Then, write the code."* ⚡️
+
+**Engineered with precision by MEEDEXE** 🔵
+
+[![Built with Love](https://img.shields.io/badge/Built_with-Passion_&_Coffee-E74C3C?style=for-the-badge)](https://github.com/MEEDEXE)
+
+</div>
