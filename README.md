@@ -193,6 +193,6 @@ All projects are licensed individually—check each repository for details.
 
 **Engineered with precision by MEEDEXE** 🔵
 
-[![Built with Love](https://img.shields.io/badge/Built_with-Passion_&_Coffee-E74C3C?style=for-the-badge)](https://github.com/MEEDEXE)
+[![Built with Love](https://img.shields.io/badge/Built_with-Camel_&_Coffee-E74C3C?style=for-the-badge)](https://github.com/MEEDEXE)
 
 </div>
